@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **LLM(Natural Process Language), AWS (Sagmaker) ...**
 
-💬 Ask me about **Python, MYSQL, MongoDB, Power BI,  or anything [here](https://github.com/Muthukumar0908)**
+💬 Ask me about **Python, MYSQL, MongoDB, Power BI,  or anything [here](https://github.com/Muthukumar0908?tab=repositories)**
 
 ⚡ Fun fact **I spend my fun time fishing and cooking**
 
