@@ -36,7 +36,7 @@
 <div align="center">
     <a href = "https://skillicons.dev">
         <img src ="https://skillicons.dev/icons?i=python,github,mysql,mongodb,PowerBi,scikit learn"/><br>
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png"  alt="Power BI Icon" style="margin-right: 10px; pointer-events: none;"/><br>
+        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="60" alt="Power BI Icon" style="margin-right: 10px; pointer-events: none;"/><br>
     </a>
 
  
