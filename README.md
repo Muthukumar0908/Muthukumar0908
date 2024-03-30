@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <a href = "https://skillicons.dev">
-        <img src ="https://skillicons.dev/icons?i=python,github,mysql,mongodb,powerbi,sk_learn"/><br>
+        <img src ="https://skillicons.dev/icons?i=python,github,mysql,mongodb,powerbi,scikit_learn"/><br>
     </a>
 
  
