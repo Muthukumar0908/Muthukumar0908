@@ -59,12 +59,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" style="background-color: cyan; padding: 10px; border-radius: 10px; border: 2px solid red;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ViShNu-hub-bot&count_private=true&theme=react&border_radius=10" alt="readme stats" style="pointer-events: none;"></img>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ViShNu-hub-bot&count_private=true&theme=react&border_radius=10" alt="streak stats" style="pointer-events: none;"></img>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Muthukumar0908&count_private=true&theme=react&border_radius=10" alt="readme stats" style="pointer-events: none;"></img>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Muthukumar0908&count_private=true&theme=react&border_radius=10" alt="streak stats" style="pointer-events: none;"></img>
   <br>
   <div align="center">
   <!-- Add a note about the theme contrast -->
- <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNu-hub-bot&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=61DAFB&bg_color=FFFFFF00&text_color=61DAFB" alt="top langs" style="pointer-events: none;">
+ <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthukumar0908&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=61DAFB&bg_color=FFFFFF00&text_color=61DAFB" alt="top langs" style="pointer-events: none;">
 </div>
 
 
@@ -85,7 +85,7 @@ font-Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=400
 
 <hr/>
 <div align="center">
-    <h3>Thanks for visiting! Shoot me a message on <a href="https://www.linkedin.com/in/vishnukanth-k-a5552327b/">LinkedIn</a>! I'm always down to collab! 😊</h3>
+    <h3>Thanks for visiting! Shoot me a message on <a href="https://www.linkedin.com/in/muthukumar-r-44848416b/">LinkedIn</a>! I'm always down to collab! 😊</h3>
   </div>
 </a>
 
