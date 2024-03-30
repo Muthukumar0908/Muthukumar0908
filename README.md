@@ -37,9 +37,10 @@
     <a href = "https://skillicons.dev">
         <img src ="https://skillicons.dev/icons?i=python,github,mysql,mongodb"/><br>
         <img src ="https://skillicons.dev/icons?i=aws,anaconda,vs code"/><br>
+    </a>
         <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="60" alt="Power BI Icon" style="margin-right: 10px; pointer-events: none;"/><br>
         <img src="https://github.com/Muthukumar0908/Muthukumar0908/blob/main/download.png" width="60" alt="Power BI Icon" style="margin-right: 10px; pointer-events: none;"/><br>
-    </a>
+    
 
  
     
